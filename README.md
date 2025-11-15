@@ -1,6 +1,3 @@
-#!/usr/bin/env bash
-
-cat > README.md << 'EOF'
 # Robô Seguidor de Linha – Projeto em Proteus 8.12
 
 <!-- Badges do Projeto -->
@@ -30,7 +27,6 @@ cat > README.md << 'EOF'
 <!-- Badges de Contribuição -->
 ![Contribuições](https://img.shields.io/badge/Contribuições-Bem_vindas-brightgreen)
 ![Licença](https://img.shields.io/badge/Licença-Livre-blue)
-
 
 ---
 
@@ -154,3 +150,10 @@ O projeto inclui:
 
 ## 📂 Estrutura do Repositório
 
+```text
+📦 Seguidor-de-Linha-Proteus
+ ┣ 📁 Proteus_Project
+ ┣ 📁 Imagens
+ ┣ 📁 Documentos
+ ┣ 📄 README.md
+ ┗ 📄 Licença
