@@ -73,7 +73,7 @@ https://drive.google.com/drive/folders/16IOtGxkFPdnRsD6lFqEz00AhovXTidr-?usp=dri
 ---
 
 ### 🧠 Arduino Nano  
-![Texto alternativo](img/nano.jpg)  
+![Texto alternativo](img/nano.jpg) 
 
 > O **Arduino Nano** foi escolhido por ser compacto, leve e programável via USB.  
 > Os pinos analógicos A0–A7 foram utilizados para leitura dos sensores.
