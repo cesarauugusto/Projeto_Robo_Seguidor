@@ -1,39 +1,15 @@
-# Robô Seguidor de Linha – Projeto em Proteus 8.12
-
-<!-- Badges do Projeto -->
-![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
-![Projeto](https://img.shields.io/badge/Tipo-Seguidor%20de%20Linha-blue)
-![Plataforma](https://img.shields.io/badge/Plataforma-Proteus%208.12-purple)
-![Arduino](https://img.shields.io/badge/Microcontrolador-Arduino%20Nano-orange)
-
-<!-- Badges Técnicas -->
-![Sensores](https://img.shields.io/badge/Sensor-QTR%20Genérico-informational)
-![Driver](https://img.shields.io/badge/Ponte%20H-TB6612FNG-yellow)
-![Motores](https://img.shields.io/badge/Motores-6V-red)
-![Bateria](https://img.shields.io/badge/Bateria-LiPo%207.4V-lightgrey)
+# Projeto Robô Seguidor de Linha
+César Augusto Victor — Mestrando em Engenharia Elétrica e de Computação (UFC Sobral)
+📧 cesartri2012@gmail.com
 
 <!-- Badges de Documentação -->
-![Artigo](https://img.shields.io/badge/Artigo-SENGI%202020-important)
-![Publicação](https://img.shields.io/badge/Publicação-E--book-orange)
-
-<!-- Badges de Contribuição -->
-![Contribuições](https://img.shields.io/badge/Contribuições-Bem%20vindas-brightgreen)
-![Licença](https://img.shields.io/badge/Licença-Livre-blue)
-
+![Artigo](https://www.even3.com.br/anais/sengi2020/271818/)
+![Publicação](https://web.archive.org/web/20201209112322id_/https://www.uniedusul.com.br/wp-content/uploads/2020/10/E-BOOK-GESTAO-EMPRESARIAL-TEORIA-E-PRATICA.pdf#page=28)
 ---
 
-Este repositório apresenta um **projeto completo de um robô seguidor de linha básico**, eficiente e de baixo custo, ideal para estudantes, iniciantes em robótica móvel e entusiastas que desejam entender os fundamentos desse tipo de sistema.
+Este repositório apresenta um **projeto completo de um robô seguidor de linha**, eficiente e de baixo custo, ideal para estudantes, iniciantes em robótica móvel e entusiastas que desejam entender os fundamentos desse tipo de sistema.
 
-O projeto foi inteiramente desenvolvido e simulado no **Proteus 8.12**, incluindo sensores, controle, drivers e motorização.
-
----
-
-## 👤 Autor
-
-Este projeto foi desenvolvido por **César Caugus Victor**,  
-aluno da **Pós-Graduação de Mestrado em Engenharia Elétrica e de Computação pela Universidade Federal do Ceará (UFC)**.
-
-O objetivo deste projeto é fornecer uma base educacional simples, acessível e eficiente para ajudar iniciantes em robótica móvel e eletrônica embarcada.
+O projeto foi inteiramente desenvolvido no **Proteus 8.12**, incluindo sensores, controle, drivers e motorização.
 
 ---
 
@@ -65,34 +41,9 @@ https://drive.google.com/drive/folders/16IOtGxkFPdnRsD6lFqEz00AhovXTidr-?usp=dri
 
 ---
 
-## 🚗 Sobre o Robô
-
-Este seguidor de linha foi desenvolvido com foco em:
-
-- **Baixo custo**
-- **Facilidade de montagem**
-- **Componentes acessíveis**
-- **Boa performance para iniciantes**
-- **Simulação completa no Proteus**
-
-O robô utiliza sensores QTR para detectar a linha e controla dois motores DC através da ponte H **TB6612FNG**, comandados por um **Arduino Nano**.
-
----
-
 ## 🧩 Componentes Utilizados
 
-- **Sensor de refletância QTR genérico**
-- **Ponte H TB6612FNG**
-- **Arduino Nano (ATmega328P)**
-- **2 Motores DC 6V**
-- **Bateria LiPo 7,4 V**
-- Componentes passivos (capacitores, resistores, conectores, etc.)
-
-> Este projeto foi pensado para iniciantes: simples, acessível e eficiente.
-
 ---
-
-## 📸 Imagens dos Componentes (Adicionar Depois)
 
 ### 🔌 Sensor QTR  
 *(espaço reservado para imagem)*  
@@ -130,9 +81,6 @@ O robô utiliza sensores QTR para detectar a linha e controla dois motores DC at
 ---
 
 ## ⚡ Velocidade Recomendada dos Motores
-
-Para robôs educacionais e de iniciantes:
-
 - Ideal: **1000–2000 RPM**
 - Motores acima de 3000 RPM requerem controle mais avançado
 - Motores mais lentos são mais estáveis
@@ -157,27 +105,3 @@ https://web.archive.org/web/20201209112322id_/https://www.uniedusul.com.br/wp-co
 https://github.com/cesarauugusto/QTR_Sensor_Generico
 
 ---
-
-## 🛠️ Simulação no Proteus
-
-Os arquivos incluem:
-
-- Arduino Nano  
-- Sensores QTR genéricos  
-- Ponte H TB6612FNG  
-- Motores 6V  
-- Pista para simulação  
-- Esquemático  
-- Layout da placa (PCB)
-
----
-
-## 📂 Estrutura do Repositório
-
-```text
-📦 Seguidor-de-Linha-Proteus
- ┣ 📁 Proteus_Project
- ┣ 📁 Imagens
- ┣ 📁 Documentos
- ┣ 📄 README.md
- ┗ 📄 Licença
