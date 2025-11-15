@@ -46,12 +46,12 @@ https://drive.google.com/drive/folders/16IOtGxkFPdnRsD6lFqEz00AhovXTidr-?usp=dri
 ---
 
 ### 🔌 Sensor QTR  
-*(espaço reservado para imagem)*  
+![Texto alternativo](img/qtr.jpg)  
 
 ---
 
 ### ⚙️ Motores  
-*(espaço reservado para imagem)*  
+![Texto alternativo](img/motor.jpg)  
 
 > O motor utilizado foi o **Micro Metal GearMotor MP 6V**, com velocidade de **3000 RPM**, caixa de redução **10:1** e corrente de **0,67 A**.  
 > Para iniciantes, recomenda-se motores entre **1000 e 2000 RPM**, o que facilita o controle.
@@ -59,21 +59,21 @@ https://drive.google.com/drive/folders/16IOtGxkFPdnRsD6lFqEz00AhovXTidr-?usp=dri
 ---
 
 ### 🔧 Ponte H – TB6612FNG  
-*(espaço reservado para imagem)*  
+![Texto alternativo](img/tb6612fng.jpg)    
 
 > O driver **TB6612FNG** possui dois canais, suporta até **13V**, e fornece picos de até **3A por canal**, sendo ideal para pequenos robôs seguidores de linha.
 
 ---
 
 ### 🔋 Bateria LiPo  
-*(espaço reservado para imagem)*  
+![Texto alternativo](img/BATERIA.jpg) 
 
 > Utilizada uma bateria **LiPo Zippy 7,4V – 500 mAh**, modelo ideal por sua leveza e alta capacidade de descarga.
 
 ---
 
 ### 🧠 Arduino Nano  
-*(espaço reservado para imagem)*  
+![Texto alternativo](img/nano.jpg)  
 
 > O **Arduino Nano** foi escolhido por ser compacto, leve e programável via USB.  
 > Os pinos analógicos A0–A7 foram utilizados para leitura dos sensores.
