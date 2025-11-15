@@ -3,8 +3,8 @@ César Augusto Victor — Mestrando em Engenharia Elétrica e de Computação (U
 📧 cesartri2012@gmail.com
 
 <!-- Badges de Documentação -->
-![Artigo](https://www.even3.com.br/anais/sengi2020/271818/)
-![Publicação](https://web.archive.org/web/20201209112322id_/https://www.uniedusul.com.br/wp-content/uploads/2020/10/E-BOOK-GESTAO-EMPRESARIAL-TEORIA-E-PRATICA.pdf#page=28)
+[![Artigo](https://img.shields.io/badge/Artigo-SENGI20-blue)](https://www.even3.com.br/anais/sengi2020/271818/)
+[![Publicação](https://img.shields.io/badge/Publicação-E--BOOK-orange)](https://web.archive.org/web/20201209112322id_/https://www.uniedusul.com.br/wp-content/uploads/2020/10/E-BOOK-GESTAO-EMPRESARIAL-TEORIA-E-PRATICA.pdf#page=28)
 ---
 
 Este repositório apresenta um **projeto completo de um robô seguidor de linha**, eficiente e de baixo custo, ideal para estudantes, iniciantes em robótica móvel e entusiastas que desejam entender os fundamentos desse tipo de sistema.
