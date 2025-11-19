@@ -1,3 +1,8 @@
+[![Repo](https://img.shields.io/badge/GitHub-QTR__Sensor__Generico-blue?logo=github)](https://github.com/cesarauugusto/QTR_Sensor_Generico)
+[![Site](https://img.shields.io/badge/Labcenter-Website-blue?logo=google-chrome)](https://www.labcenter.com/)
+[![Site](https://img.shields.io/badge/Arduino-Website-blue?logo=arduino)](https://www.arduino.cc/)
+[![Site](https://img.shields.io/badge/Zenodo-Record-blue?logo=zenodo)](https://zenodo.org/records/17593098)
+
 # Projeto Robô Seguidor de Linha
 César Augusto Victor — Mestrando em Engenharia Elétrica e de Computação (UFC Sobral)
 📧 cesartri2012@gmail.com
@@ -9,9 +14,26 @@ César Augusto Victor — Mestrando em Engenharia Elétrica e de Computação (U
 
 Este repositório apresenta um **projeto completo de um robô seguidor de linha**, eficiente e de baixo custo, ideal para estudantes, iniciantes em robótica móvel e entusiastas que desejam entender os fundamentos desse tipo de sistema.
 
+<p align="center">
+  <img src="img/sensor.jpg" width="450">
+  <img src="img/seguidorgif.gif" width="300">
+</p
+
 O projeto foi inteiramente desenvolvido no **Proteus 8.12**, incluindo sensores, controle, drivers e motorização.
 
+<p align="center">
+  <img src="img/frente.jpg" width="450">
+  <img src="img/tras.jpg" width="300">
+</p
+  
 ---
+
+### ⚠ **IMPORTANTE:**  
+O repositório **NÃO** contém o código-fonte do robô.  
+O firmware está disponível separadamente em:
+
+👉 **Repositório do Código (QTR Genérico):**  
+https://github.com/cesarauugusto/QTR_Sensor_Generico
 
 ## 📦 Sobre este Repositório
 
@@ -22,12 +44,7 @@ Este repositório contém **apenas os arquivos dos componentes, esquemáticos, l
 - Fabricar sua própria PCB  
 - Estudar o hardware utilizado no robô  
 
-⚠ **IMPORTANTE:**  
-O repositório **NÃO** contém o código-fonte do robô.  
-O firmware está disponível separadamente em:
 
-👉 **Repositório do Código (QTR Genérico):**  
-https://github.com/cesarauugusto/QTR_Sensor_Generico
 
 ---
 
