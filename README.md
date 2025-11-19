@@ -15,9 +15,9 @@ César Augusto Victor — Mestrando em Engenharia Elétrica e de Computação (U
 Este repositório apresenta um **projeto completo de um robô seguidor de linha**, eficiente e de baixo custo, ideal para estudantes, iniciantes em robótica móvel e entusiastas que desejam entender os fundamentos desse tipo de sistema.
 
 <p align="center">
-  <img src="img/seguidorgif.gif" width="235">
-  <img src="img/frente.jpg" width="235">
-  <img src="img/tras.jpg" width="235">
+  <img src="img/seguidorgif.gif" width="250">
+  <img src="img/frente.jpg" width="250">
+  <img src="img/tras.jpg" width="250">
 </p
 
 O projeto foi inteiramente desenvolvido no **Proteus 8.12**, incluindo sensores, controle, drivers e motorização.
