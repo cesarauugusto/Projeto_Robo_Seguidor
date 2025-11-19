@@ -26,9 +26,9 @@ O projeto foi inteiramente desenvolvido no **Proteus 8.12**, incluindo sensores,
 
 ### ⚠ **IMPORTANTE:**  
 O repositório **NÃO** contém o código-fonte do robô.  
-O firmware está disponível separadamente em: [![Repo](https://img.shields.io/badge/GitHub-QTR__Sensor__Generico-blue?logo=github)](https://github.com/cesarauugusto/QTR_Sensor_Generico)
+O firmware está disponível separadamente em:
 
-👉 **Repositório do Código (QTR Genérico):**  
+👉 **Repositório do Código (QTR Genérico):** [![Repo](https://img.shields.io/badge/GitHub-QTR__Sensor__Generico-blue?logo=github)](https://github.com/cesarauugusto/QTR_Sensor_Generico)
 https://github.com/cesarauugusto/QTR_Sensor_Generico
 
 ## 📦 Sobre este Repositório
