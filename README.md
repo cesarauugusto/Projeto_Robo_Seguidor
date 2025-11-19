@@ -16,8 +16,8 @@ Este repositório apresenta um **projeto completo de um robô seguidor de linha*
 
 <p align="center">
   <img src="img/seguidorgif.gif" width="250">
-  <img src="img/frente.jpg" width="250">
-  <img src="img/tras.jpg" width="250">
+  <img src="img/frente.jpg" width="255">
+  <img src="img/tras.jpg" width="255">
 </p
 
 O projeto foi inteiramente desenvolvido no **Proteus 8.12**, incluindo sensores, controle, drivers e motorização.
