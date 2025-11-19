@@ -40,7 +40,7 @@ Este repositório contém **apenas os arquivos dos componentes, esquemáticos, l
 - Fabricar sua própria PCB  
 - Estudar o hardware utilizado no robô
 
-  <p align="center">>
+  <p align="center">
   <img src="img/trilhas.jpg" width="260">
 </p
   
