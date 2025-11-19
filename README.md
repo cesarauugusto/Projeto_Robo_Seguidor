@@ -41,7 +41,7 @@ Este repositório contém **apenas os arquivos dos componentes, esquemáticos, l
 - Estudar o hardware utilizado no robô
 
   <p align="center">
-  <img src="img/trilha.jpg" width="500">
+  <img src="img/trilha.jpg" width="1000">
 </p
   
 ---
