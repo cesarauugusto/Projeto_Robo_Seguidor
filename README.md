@@ -38,10 +38,12 @@ Este repositório contém **apenas os arquivos dos componentes, esquemáticos, l
 - Visualizar o circuito completo  
 - Editar e simular no Proteus 8.12  
 - Fabricar sua própria PCB  
-- Estudar o hardware utilizado no robô  
+- Estudar o hardware utilizado no robô
 
-
-
+  <p align="center">>
+  <img src="img/trilhas.jpg" width="260">
+</p
+  
 ---
 
 ## ⚙️ Download do Proteus 8.12
